@@ -1,0 +1,3 @@
+com\zhangyuhao\config\CorsCpnfig.class
+com\zhangyuhao\filter\AuthFilter.class
+com\zhangyuhao\ZuulGatewayApplication.class

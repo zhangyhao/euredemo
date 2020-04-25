@@ -1,0 +1,5 @@
+com\zhangyuhao\springcloud\user\mapper\UserrMapper.class
+com\zhangyuhao\springcloud\user\entity\Userr.class
+com\zhangyuhao\springcloud\user\service\UserService.class
+com\zhangyuhao\springcloud\user\controller\UserController.class
+com\zhangyuhao\springcloud\user\ServiceUserApplication.class

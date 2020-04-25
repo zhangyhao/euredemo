@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          #Git仓库 在公司里配置仓库应该是单独的
+          uri: https://gitee.com/zhanggm1002/zhanggm-springcloud-demo-1708d.git
+          search-paths:
+            - configfiles
+          #默认拉取配置Git的分支
+          default-label: master
+          #如果你的git不公开的 需要设置密码
+          #password：
+      #从哪个分支去拉取配置文件
+      label: spring-cloud-config
+server:
+  port: 8888
+  #给配置中心统一加访问前缀
+ # servlet:
+  #  context-path: /config/

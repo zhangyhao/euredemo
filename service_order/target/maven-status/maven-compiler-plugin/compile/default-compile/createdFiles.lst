@@ -1,0 +1,10 @@
+com\zhangyuhao\springcloud\order\model\Order.class
+com\zhangyuhao\springcloud\order\ServiceOrderApplication.class
+com\zhangyuhao\springcloud\order\entity\DingDan.class
+com\zhangyuhao\springcloud\order\feign\UserFeignClient.class
+com\zhangyuhao\springcloud\order\service\DingdanServiceImpl.class
+com\zhangyuhao\springcloud\order\config\RibbonConfig.class
+com\zhangyuhao\springcloud\order\service\OrderService.class
+com\zhangyuhao\springcloud\order\controller\OrderController.class
+com\zhangyuhao\springcloud\order\feign\UserFeignFallback.class
+com\zhangyuhao\springcloud\order\mapper\DingdanMapper.class

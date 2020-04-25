@@ -1,0 +1,10 @@
+D:\IdeaProjects\euredemo\service_order\src\main\java\com\zhangyuhao\springcloud\order\feign\UserFeignFallback.java
+D:\IdeaProjects\euredemo\service_order\src\main\java\com\zhangyuhao\springcloud\order\ServiceOrderApplication.java
+D:\IdeaProjects\euredemo\service_order\src\main\java\com\zhangyuhao\springcloud\order\service\DingdanServiceImpl.java
+D:\IdeaProjects\euredemo\service_order\src\main\java\com\zhangyuhao\springcloud\order\mapper\DingdanMapper.java
+D:\IdeaProjects\euredemo\service_order\src\main\java\com\zhangyuhao\springcloud\order\config\RibbonConfig.java
+D:\IdeaProjects\euredemo\service_order\src\main\java\com\zhangyuhao\springcloud\order\service\OrderService.java
+D:\IdeaProjects\euredemo\service_order\src\main\java\com\zhangyuhao\springcloud\order\controller\OrderController.java
+D:\IdeaProjects\euredemo\service_order\src\main\java\com\zhangyuhao\springcloud\order\entity\DingDan.java
+D:\IdeaProjects\euredemo\service_order\src\main\java\com\zhangyuhao\springcloud\order\model\Order.java
+D:\IdeaProjects\euredemo\service_order\src\main\java\com\zhangyuhao\springcloud\order\feign\UserFeignClient.java

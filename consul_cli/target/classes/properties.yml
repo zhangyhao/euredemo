@@ -1,0 +1,13 @@
+server:
+  port: 8000
+spring:
+  application:
+    name: consul-client
+  cloud:
+    consul:
+      #链接consul服务注册中心
+      host: localhost
+      port: 8500
+      discovery:
+        #consul可以自定义在注册中心的名字
+        service-name: ${spring.application.name}
